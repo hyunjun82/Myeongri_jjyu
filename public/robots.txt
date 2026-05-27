@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://myeongri.jjyu.co.kr/sitemap.xml
+
